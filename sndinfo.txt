@@ -1,2 +1,31 @@
+; Cacodemon death zaps
+$volume caco/arczap 0.4
+$volume caco/ballcrack 0.4
+$volume caco/zap 0.4
+$volume caco/zap2 0.4
+$volume caco/zap3 0.4
+$volume misc/zap 0.6
+$volume misc/zap2 0.6
+$volume misc/zap3 0.6
+
+; Derp
+$volume derp/crawl 1.0
+$pitchset derp/crawl 1.3
+
+; Fire
 $volume misc/firecrkl 0.4
 $limit misc/firecrkl 8 128
+
+; Herp
+$volume herp/beep 1.0
+$pitchset herp/beep 1.0
+$volume herp/beepready 1.0
+$pitchset herp/beepready 1.0
+
+; Jetpack
+$volume jetpack/fwoosh 0.05
+$volume jetpack/bang 0.05
+
+; Thunderbuster
+$volume weapons/plasidle 0.8
+$volume weapons/plasmaf 0.8
