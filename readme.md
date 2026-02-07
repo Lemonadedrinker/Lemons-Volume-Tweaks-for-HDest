@@ -1,6 +1,9 @@
 # Lemon's Volume Tweaks for Hideous Destructor
-Currently adjusts (or makes available) the sounds of:
+### How to use:
+You can configure the mod to your liking by editing **sndinfo.txt**, which should be fine for multiplayer.
+The list below shows the default settings that this mod provides.
 
+## Currently adjusts (or makes available) the sounds of:
 ### Cacodemon Death Zaps
 * Damaging Arc Volume: 0.6x
 * Other Volume: 0.4x
