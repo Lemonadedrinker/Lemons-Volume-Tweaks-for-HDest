@@ -25,5 +25,5 @@ The list below shows the default settings that this mod provides.
 ### Jetpack
 * Overall Volume: 0.05x
 
-### Thunderbuster
+### Thunderbuster/Arachnotron Attack
 * Overall Volume: 0.8x
