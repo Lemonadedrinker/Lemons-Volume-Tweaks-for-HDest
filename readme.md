@@ -9,7 +9,7 @@ Currently adjusts (or makes available) the sounds of:
 * Volume: 1.0x (Default)
 * Pitch: 1.3x (Default)
 
-### Fire
+### Fire ([Preview](https://youtu.be/olaJZs7-C8M))
 * Volume: 0.5x
 * Limit: 8 sounds per 128 map units
 
